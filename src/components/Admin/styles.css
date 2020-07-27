@@ -1,0 +1,17 @@
+.admin-page-wrapper {
+    display: flex;
+    flex-basis: 100%;
+    height: 100vh;
+}
+.admin-workspace {
+    flex-basis: 80%;
+}
+.send-admin-button {
+    outline: none;
+    border-radius: 25px;
+    border: 1px solid #999;
+    height: 30px;
+    width: 70px;
+    background: white;
+    cursor: pointer;
+}
